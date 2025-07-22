@@ -1,5 +1,7 @@
 # macOS Classic Theme for Zed
 
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%23084CCF)](https://zed.dev/extensions/macos-classic)
+
 A macOS native style theme for [Zed](https://zed.dev), let it same like native app in macOS.
 
 ## Screenshot
@@ -28,7 +30,7 @@ Open your Zed user settings.json: `~/.config/zed/settings.json`, and add this co
     "mode": "system",
     "light": "macOS Classic Light",
     "dark": "macOS Classic Dark"
-  },
+  }
 }
 ```
 
@@ -37,7 +39,6 @@ Open your Zed user settings.json: `~/.config/zed/settings.json`, and add this co
 - [Zed Theme](https://github.com/huacnlee/zed-theme-macos-classic)
 - [VS Code Theme](https://github.com/huacnlee/vscode-macos-classic.theme)
 - [Warp Theme](https://github.com/huacnlee/warp-theme-macos-classic)
-
 
 ## License
 
