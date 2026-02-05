@@ -8,11 +8,11 @@ A macOS native style theme for [Zed](https://zed.dev), let it same like native a
 
 ### Light
 
-![SCR-20240204-edk](https://github.com/user-attachments/assets/1db96b6e-5da6-4979-aee2-d3ee743fcc74)
+<img width="1346" height="1076" alt="image" src="https://github.com/user-attachments/assets/9e137fe8-a0b1-4ccf-a59d-173571e850bb" />
 
 ### Dark
 
-![SCR-20240204-edr](https://github.com/user-attachments/assets/d87bea56-aa6d-4c86-acfc-87f91624f8a7)
+<img width="1346" height="1076" alt="image" src="https://github.com/user-attachments/assets/b0d48cb5-9316-41e8-87f4-84f18035be90" />
 
 ## Usage
 
