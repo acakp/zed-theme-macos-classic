@@ -349,10 +349,10 @@
             "color": "#CACCCA"
           },
           "function": {
-            "color": "#fdd888"
+            "color": "#EFEFEF"
           },
           "keyword": {
-            "color": "#c28b12"
+            "color": "#888888"
           },
           "link_text": {
             "color": "#307BF6",
@@ -366,32 +366,32 @@
             "color": "#E1D797"
           },
           "string": {
-            "color": "#62BA46"
+            "color": "#BFE7B2"
           },
           "string.escape": {
-            "color": "#62BA46"
+            "color": "#4E7840"
           },
           "string.regex": {
-            "color": "#62BA46"
+            "color": "#9DDE88"
           },
           "string.special": {
-            "color": "#E1D797"
+            "color": "#9DDE88"
           },
           "string.special.symbol": {
-            "color": "#E1D797"
+            "color": "#9DDE88"
           },
           "tag": {
             "color": "#b5af9a"
           },
           "text.literal": {
-            "color": "#E1D797"
+            "color": "#9DDE88"
           },
           "title": {
             "color": "#fdd888",
             "font_weight": 600
           },
           "type": {
-            "color": "#c75828"
+            "color": "#FEE8CD"
           },
           "property": {
             "color": "#CACCCA"
